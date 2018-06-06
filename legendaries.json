@@ -1,0 +1,2162 @@
+[
+    {
+        "en": "Genzaniku",
+        "jp": "ゲンザニク"
+    },
+    {
+        "en": "Flesh Tearer",
+        "jp": "フレッシュ・ティアラー"
+    },
+    {
+        "en": "Hack",
+        "jp": "両断する者"
+    },
+    {
+        "en": "The Wedge",
+        "jp": "くさび打ちの斧"
+    },
+    {
+        "en": "The Butcher's Sickle",
+        "jp": "ブッチャーの鎌"
+    },
+    {
+        "en": "Sky Splitter",
+        "jp": "空を裂く者"
+    },
+    {
+        "en": "The Burning Axe of Sankis",
+        "jp": "サンキスの燃える斧"
+    },
+    {
+        "en": "Mordullu's Promise",
+        "jp": "モードゥルの約束"
+    },
+    {
+        "en": "Utar's Roar",
+        "jp": "ウタールの怒号"
+    },
+    {
+        "en": "Envious Blade",
+        "jp": "嫉妬する刃"
+    },
+    {
+        "en": "Pig Sticker",
+        "jp": "ピッグ・スティッカー"
+    },
+    {
+        "en": "Kill",
+        "jp": "殺戮の短刀"
+    },
+    {
+        "en": "Blood-Magic Blade",
+        "jp": "血を司る魔術の刃"
+    },
+    {
+        "en": "Wizardspike",
+        "jp": "ウィザードスパイク"
+    },
+    {
+        "en": "Blood-Magic Edge",
+        "jp": "血魔術の刃"
+    },
+    {
+        "en": "Eun-jang-do",
+        "jp": "イゥン＝ジャン＝ドゥ"
+    },
+    {
+        "en": "Karlei's Point",
+        "jp": "カーレイズ・ポイント"
+    },
+    {
+        "en": "Lord Greenstone's Fan",
+        "jp": "グリーンストーン卿の扇"
+    },
+    {
+        "en": "Odyn Son",
+        "jp": "オーディンの息子"
+    },
+    {
+        "en": "Mad Monarch's Scepter",
+        "jp": "狂君の錫笏"
+    },
+    {
+        "en": "Nutcracker",
+        "jp": "ナットクラッカー"
+    },
+    {
+        "en": "Telranden's Hand",
+        "jp": "テルランデンの手"
+    },
+    {
+        "en": "Jace's Hammer of Vigilance",
+        "jp": "油断なきジェイスの鎚"
+    },
+    {
+        "en": "Solanium",
+        "jp": "ソラニウム"
+    },
+    {
+        "en": "Nailbiter",
+        "jp": "ネイルバイター"
+    },
+    {
+        "en": "Neanderthal",
+        "jp": "ネアンデルタール"
+    },
+    {
+        "en": "Earthshatter",
+        "jp": "大地砕き"
+    },
+    {
+        "en": "Echoing Fury",
+        "jp": "反響する憤怒"
+    },
+    {
+        "en": "Sun Keeper",
+        "jp": "サン・キーパー"
+    },
+    {
+        "en": "Devastator",
+        "jp": "殲滅者"
+    },
+    {
+        "en": "Spear of Jairo",
+        "jp": "ジャイロの槍"
+    },
+    {
+        "en": "Arreat's Law",
+        "jp": "アリートの掟"
+    },
+    {
+        "en": "Scrimshaw",
+        "jp": "スクリムショウ"
+    },
+    {
+        "en": "The Three Hundredth Spear",
+        "jp": "300本目の槍"
+    },
+    {
+        "en": "Empyrean Messenger",
+        "jp": "最高天の使い"
+    },
+    {
+        "en": "Akanesh、the Herald of Righteousness",
+        "jp": "正義を告げる者、アカネシュ"
+    },
+    {
+        "en": "Monster Hunter",
+        "jp": "獣を狩る者"
+    },
+    {
+        "en": "Wildwood",
+        "jp": "ワイルドウッド"
+    },
+    {
+        "en": "Doombringer",
+        "jp": "ドゥームブリンガー"
+    },
+    {
+        "en": "The Ancient Bonesaber of Zumakalis",
+        "jp": "ズマカリスの古きボーンサーベル"
+    },
+    {
+        "en": "Exarian",
+        "jp": "エクサリアン"
+    },
+    {
+        "en": "Fulminator",
+        "jp": "ファルミネイター"
+    },
+    {
+        "en": "Gift of Silaria",
+        "jp": "シラリアの贈り物"
+    },
+    {
+        "en": "Rimeheart",
+        "jp": "ライムハート"
+    },
+    {
+        "en": "Thunderfury、Blessed Blade of the Windseeker",
+        "jp": "風追い人の祝福されし剣、サンダーフューリー"
+    },
+    {
+        "en": "Sever",
+        "jp": "セヴァー"
+    },
+    {
+        "en": "Skycutter",
+        "jp": "空を斬る刃"
+    },
+    {
+        "en": "Azurewrath",
+        "jp": "アズールラス"
+    },
+    {
+        "en": "Devil Tongue",
+        "jp": "悪魔の舌"
+    },
+    {
+        "en": "Griswold's Masterpiece",
+        "jp": "グリズウォルドの名剣"
+    },
+    {
+        "en": "Deathwish",
+        "jp": "デスウィッシュ"
+    },
+    {
+        "en": "Griswold's Perfection",
+        "jp": "グリスウォルドの業物"
+    },
+    {
+        "en": "In-geom",
+        "jp": "イン＝ジオム"
+    },
+    {
+        "en": "Shard of Hate",
+        "jp": "憎しみのかけら"
+    },
+    {
+        "en": "Sword of Ill Will",
+        "jp": "敵意の剣"
+    },
+    {
+        "en": "The Twisted Sword",
+        "jp": "ツイステッド・ソード"
+    },
+    {
+        "en": "Deadly Rebirth",
+        "jp": "致死の再生"
+    },
+    {
+        "en": "Umbral Oath",
+        "jp": "暗影の誓い"
+    },
+    {
+        "en": "Rhen'ho Flayer",
+        "jp": "レン＝ホーのフレイヤー"
+    },
+    {
+        "en": "Sacred Harvester",
+        "jp": "聖なる採集者"
+    },
+    {
+        "en": "The Dagger of Darts",
+        "jp": "ダーツ・ダガー"
+    },
+    {
+        "en": "The Barber",
+        "jp": "髪結いの短刀"
+    },
+    {
+        "en": "Last Breath",
+        "jp": "ラスト・ブレス"
+    },
+    {
+        "en": "The Spider Queen's Grasp",
+        "jp": "女王蜘蛛の抱擁"
+    },
+    {
+        "en": "Starmetal Kukri",
+        "jp": "星金のククリ"
+    },
+    {
+        "en": "Anessazi Edge",
+        "jp": "アナサジの刃"
+    },
+    {
+        "en": "Voo's Juicer",
+        "jp": "ヴーのジューサー"
+    },
+    {
+        "en": "The Gidbinn",
+        "jp": "ギドビン"
+    },
+    {
+        "en": "Living Umbral Oath",
+        "jp": "生ける暗影の誓い"
+    },
+    {
+        "en": "Crystal Fist",
+        "jp": "クリスタル・フィスト"
+    },
+    {
+        "en": "Fleshrake",
+        "jp": "フレッシュレーキ"
+    },
+    {
+        "en": "Scarbringer",
+        "jp": "スカーブリンガー"
+    },
+    {
+        "en": "Sledge Fist",
+        "jp": "鉄鎚拳"
+    },
+    {
+        "en": "Jawbreaker",
+        "jp": "ジョーブレイカー"
+    },
+    {
+        "en": "Logan's Claw",
+        "jp": "ローガンの爪"
+    },
+    {
+        "en": "Demon Hand",
+        "jp": "悪魔の拳"
+    },
+    {
+        "en": "Rabid Strike",
+        "jp": "凶犬の牙"
+    },
+    {
+        "en": "The Fist of Az'Turrasq",
+        "jp": "アズ＝タラスクの拳"
+    },
+    {
+        "en": "Won Khim Lau",
+        "jp": "ワン・キム・ラウ"
+    },
+    {
+        "en": "Demon Claw",
+        "jp": "悪魔の爪"
+    },
+    {
+        "en": "Kyoshiro's Blade",
+        "jp": "キョーシローの刃"
+    },
+    {
+        "en": "Lion's Claw",
+        "jp": "ライオンの爪"
+    },
+    {
+        "en": "Vengeful Wind",
+        "jp": "復讐の風"
+    },
+    {
+        "en": "Johanna's Argument",
+        "jp": "ジョハンナの反論"
+    },
+    {
+        "en": "Darklight",
+        "jp": "ダークライト"
+    },
+    {
+        "en": "Gyrfalcon's Foote",
+        "jp": "シロハヤブサのフート"
+    },
+    {
+        "en": "Inviolable Faith",
+        "jp": "不可侵の信仰"
+    },
+    {
+        "en": "Justinian's Mercy",
+        "jp": "ジャスティニアンの慈悲"
+    },
+    {
+        "en": "Kassar's Retribution",
+        "jp": "カッサールの報復"
+    },
+    {
+        "en": "Swiftmount",
+        "jp": "スィフトマウント"
+    },
+    {
+        "en": "Golden Scourge",
+        "jp": "金色の災厄"
+    },
+    {
+        "en": "Fjord Cutter",
+        "jp": "フィヨルド・カッター"
+    },
+    {
+        "en": "Ambo's Pride",
+        "jp": "アンボの矜持"
+    },
+    {
+        "en": "Harvest Moon",
+        "jp": "収穫の月"
+    },
+    {
+        "en": "Blade of the Warlord",
+        "jp": "戦主の剣"
+    },
+    {
+        "en": "Dishonored Legacy",
+        "jp": "不名誉な遺産"
+    },
+    {
+        "en": "Night's Reaping",
+        "jp": "夜の収穫"
+    },
+    {
+        "en": "Oathkeeper",
+        "jp": "誓い守る者"
+    },
+    {
+        "en": "Remorseless",
+        "jp": "慈悲なき者"
+    },
+    {
+        "en": "Funerary Pick",
+        "jp": "葬送のピック"
+    },
+    {
+        "en": "Trag'Oul's Corroded Fang",
+        "jp": "トラグ＝オウルの腐食した牙"
+    },
+    {
+        "en": "Scythe of the Cycle",
+        "jp": "循環の大鎌"
+    },
+    {
+        "en": "The Executioner",
+        "jp": "エクセキューショナー"
+    },
+    {
+        "en": "Burst of Wrath",
+        "jp": "憤怒の爆発"
+    },
+    {
+        "en": "Butcher's Carver",
+        "jp": "ブッチャーの肉切り包丁"
+    },
+    {
+        "en": "Messerschmidt's Reaver",
+        "jp": "メッサーシュミットのリーヴァー"
+    },
+    {
+        "en": "Fire Brand",
+        "jp": "炎の烙印"
+    },
+    {
+        "en": "Skorn",
+        "jp": "スコーン"
+    },
+    {
+        "en": "Cinder Switch",
+        "jp": "シンダー・スイッチ"
+    },
+    {
+        "en": "Arthef's Spark of Life",
+        "jp": "アーセフの命の煌めき"
+    },
+    {
+        "en": "Crushbane",
+        "jp": "クラッシュベイン"
+    },
+    {
+        "en": "Soulsmasher",
+        "jp": "ソウルスマッシャー"
+    },
+    {
+        "en": "Skywarden",
+        "jp": "空を見守りし者"
+    },
+    {
+        "en": "Wrath of the Bone King",
+        "jp": "骸骨王の怒り"
+    },
+    {
+        "en": "The Furnace",
+        "jp": "ファーネス"
+    },
+    {
+        "en": "Cataclysm",
+        "jp": "大変動"
+    },
+    {
+        "en": "Schaefer's Hammer",
+        "jp": "シャーファーのハンマー"
+    },
+    {
+        "en": "Sledge of Athskeleng",
+        "jp": "アスケレンの棍棒"
+    },
+    {
+        "en": "Sunder",
+        "jp": "断ち切る者"
+    },
+    {
+        "en": "Pledge of Caldeum",
+        "jp": "カルディウムの誓い"
+    },
+    {
+        "en": "Standoff",
+        "jp": "抵抗する者"
+    },
+    {
+        "en": "Bovine Bardiche",
+        "jp": "牛のバルディッシュ"
+    },
+    {
+        "en": "Heart Slaughter",
+        "jp": "心臓砕き"
+    },
+    {
+        "en": "Vigilance",
+        "jp": "ヴィジランス"
+    },
+    {
+        "en": "Autumn's Call",
+        "jp": "秋の呼び声"
+    },
+    {
+        "en": "Staff of Chiroptera",
+        "jp": "翼手目の杖"
+    },
+    {
+        "en": "The Broken Staff",
+        "jp": "砕かれし杖"
+    },
+    {
+        "en": "Ahavarion, Spear of Lycander",
+        "jp": "ライカンダーの槍、アハヴァリオン"
+    },
+    {
+        "en": "SuWong Diviner",
+        "jp": "スウォンの予言"
+    },
+    {
+        "en": "The Smoldering Core",
+        "jp": "くすぶる中核"
+    },
+    {
+        "en": "Valthek's Rebuke",
+        "jp": "ヴァルゼクの叱責"
+    },
+    {
+        "en": "The Magi",
+        "jp": "マギの杖"
+    },
+    {
+        "en": "Maloth's Focus",
+        "jp": "マロスの精神"
+    },
+    {
+        "en": "Wormwood",
+        "jp": "ワームウッド"
+    },
+    {
+        "en": "The Grand Vizier",
+        "jp": "グランド・ヴェジェール"
+    },
+    {
+        "en": "The Tormentor",
+        "jp": "トーメンター"
+    },
+    {
+        "en": "Mark of The Magi",
+        "jp": "マギの刻印"
+    },
+    {
+        "en": "Hellish Staff of Herding",
+        "jp": "地獄の牛追い杖"
+    },
+    {
+        "en": "Infernal Staff of Herding",
+        "jp": "究極の牛追い杖"
+    },
+    {
+        "en": "Nightmarish Staff of Herding",
+        "jp": "悪夢の牛追い杖"
+    },
+    {
+        "en": "Staff of Herding",
+        "jp": "牛追い杖"
+    },
+    {
+        "en": "The Zweihander",
+        "jp": "ツヴァイハンダー"
+    },
+    {
+        "en": "Faithful Memory",
+        "jp": "忠実なる記憶"
+    },
+    {
+        "en": "Blackguard",
+        "jp": "黒き守り手"
+    },
+    {
+        "en": "Scourge",
+        "jp": "スコージ"
+    },
+    {
+        "en": "Stalgard's Decimator",
+        "jp": "スタルガードの殺戮"
+    },
+    {
+        "en": "Blade of Prophecy",
+        "jp": "予言の剣"
+    },
+    {
+        "en": "The Sultan of Blinding Sand",
+        "jp": "スルタンの目潰しの砂"
+    },
+    {
+        "en": "Maximus",
+        "jp": "マキシマス"
+    },
+    {
+        "en": "The Grandfather",
+        "jp": "グランドファーザー"
+    },
+    {
+        "en": "Warmonger",
+        "jp": "ウォーモンガー"
+    },
+    {
+        "en": "Cam's Rebuttal",
+        "jp": "カムの反証"
+    },
+    {
+        "en": "Blood Brother",
+        "jp": "ブラッド・ブラザー"
+    },
+    {
+        "en": "Corrupted Ashbringer",
+        "jp": "汚染されたアッシュブリンガー"
+    },
+    {
+        "en": "Balance",
+        "jp": "均衡"
+    },
+    {
+        "en": "Lai Yui's Taiji",
+        "jp": "ライ・ユイのタイジ"
+    },
+    {
+        "en": "The Flow of Eternity",
+        "jp": "永遠の流れ"
+    },
+    {
+        "en": "The Paddle",
+        "jp": "櫂杖"
+    },
+    {
+        "en": "Staff of Kyro",
+        "jp": "カイロの杖"
+    },
+    {
+        "en": "Warstaff of General Quang",
+        "jp": "クァン将軍のウォースタッフ"
+    },
+    {
+        "en": "Incense Torch of the Grand Temple",
+        "jp": "大寺院の香炉杖"
+    },
+    {
+        "en": "Flying Dragon",
+        "jp": "飛龍杖"
+    },
+    {
+        "en": "Rozpedin's Staff",
+        "jp": "ロズペディンの杖"
+    },
+    {
+        "en": "Lai Yui's Persuader",
+        "jp": "ライ・ユイの訓戒"
+    },
+    {
+        "en": "Rozpedin's Force",
+        "jp": "ロズペディンの力"
+    },
+    {
+        "en": "Flail of the Ascended",
+        "jp": "フレイル・オブ・アセンデッド"
+    },
+    {
+        "en": "Akkhan's Addendum",
+        "jp": "アクハンの遺言"
+    },
+    {
+        "en": "Baleful Remnant",
+        "jp": "悪意の面影"
+    },
+    {
+        "en": "Fate of the Fell",
+        "jp": "邪悪なる者の末路"
+    },
+    {
+        "en": "Golden Flense",
+        "jp": "黄金の皮剥ぎ"
+    },
+    {
+        "en": "The Mortal Drama",
+        "jp": "モータル・ドラマ"
+    },
+    {
+        "en": "Akkhan's Leniency",
+        "jp": "アクハンの慈悲"
+    },
+    {
+        "en": "Unending War",
+        "jp": "終わりなき戦い"
+    },
+    {
+        "en": "Bastion's Revered",
+        "jp": "バスティオンの栄光"
+    },
+    {
+        "en": "Fury of the Vanished Peak",
+        "jp": "消滅せし聖山の怒り"
+    },
+    {
+        "en": "Madawc's Sorrow",
+        "jp": "マドウクの悲嘆"
+    },
+    {
+        "en": "The Gavel of Judgment",
+        "jp": "裁きの小槌"
+    },
+    {
+        "en": "Blade of the Tribes",
+        "jp": "部族の刃"
+    },
+    {
+        "en": "War of the Dead",
+        "jp": "死者の戦"
+    },
+    {
+        "en": "Reilena's Shadowhook",
+        "jp": "レイリナのシャドウフック"
+    },
+    {
+        "en": "Maltorius' Petrified Spike",
+        "jp": "マルトリウスの石化スパイク"
+    },
+    {
+        "en": "Bloodtide Blade",
+        "jp": "血潮の刃"
+    },
+    {
+        "en": "Nayr's Black Death",
+        "jp": "ナイアの黒き死"
+    },
+    {
+        "en": "Uskang",
+        "jp": "ウスカング"
+    },
+    {
+        "en": "Longshot",
+        "jp": "ロングショット"
+    },
+    {
+        "en": "Etrayu",
+        "jp": "エトレイユ"
+    },
+    {
+        "en": "The Raven's Wing",
+        "jp": "レイヴンズ・ウイング"
+    },
+    {
+        "en": "Kridershot",
+        "jp": "クライダーショット"
+    },
+    {
+        "en": "Cluckeye",
+        "jp": "クラックアイ"
+    },
+    {
+        "en": "Venomhusk",
+        "jp": "ヴェノムハスク"
+    },
+    {
+        "en": "Windforce",
+        "jp": "ウインドフォース"
+    },
+    {
+        "en": "Leonine Bow of Hashir",
+        "jp": "ハッシャーのライオン・ボウ"
+    },
+    {
+        "en": "Odyssey's End",
+        "jp": "旅の終わり"
+    },
+    {
+        "en": "Sydyru Crust",
+        "jp": "シディルの外皮"
+    },
+    {
+        "en": "Unbound Bolt",
+        "jp": "放たれた雷光"
+    },
+    {
+        "en": "Yang's Recurve",
+        "jp": "ヤンの弓"
+    },
+    {
+        "en": "Demon Machine",
+        "jp": "デーモン・マシーン"
+    },
+    {
+        "en": "Buriza-Do Kyanon",
+        "jp": "ブリザア＝ド・キャノン"
+    },
+    {
+        "en": "Bakkan Caster",
+        "jp": "バッカン・キャスター"
+    },
+    {
+        "en": "Pus Spitter",
+        "jp": "パス・スピッター"
+    },
+    {
+        "en": "Starspine",
+        "jp": "スタースパイン"
+    },
+    {
+        "en": "Hellrack",
+        "jp": "ヘルラック"
+    },
+    {
+        "en": "Manticore",
+        "jp": "マンティコア"
+    },
+    {
+        "en": "Arcane Barb",
+        "jp": "アーケインの矢尻"
+    },
+    {
+        "en": "Chanon Bolter",
+        "jp": "チャノン・ボルター"
+    },
+    {
+        "en": "Wojahnni Assaulter",
+        "jp": "ウォジャーンの襲撃者"
+    },
+    {
+        "en": "Valla's Bequest",
+        "jp": "ヴァッラの形見"
+    },
+    {
+        "en": "Helltrapper",
+        "jp": "ヘルトラッパー"
+    },
+    {
+        "en": "Balefire Caster",
+        "jp": "かがり火を放つ弓"
+    },
+    {
+        "en": "K'mar Tenclip",
+        "jp": "ク＝マールのテンクリップ"
+    },
+    {
+        "en": "Deadeye",
+        "jp": "デッドアイ"
+    },
+    {
+        "en": "Dawn",
+        "jp": "暁の石"
+    },
+    {
+        "en": "Calamity",
+        "jp": "災禍"
+    },
+    {
+        "en": "Blitzbolter",
+        "jp": "強襲の弓"
+    },
+    {
+        "en": "Fortress Ballista",
+        "jp": "砦のバリスタ"
+    },
+    {
+        "en": "Lianna's Wings",
+        "jp": "リアンナの翼"
+    },
+    {
+        "en": "The Demon's Demise",
+        "jp": "デーモンズ・デマイズ"
+    },
+    {
+        "en": "Starfire",
+        "jp": "スターファイア"
+    },
+    {
+        "en": "Unstable Scepter",
+        "jp": "不安定なセプター"
+    },
+    {
+        "en": "Blackhand Key",
+        "jp": "黒手の鍵"
+    },
+    {
+        "en": "Serpent's Sparker",
+        "jp": "蛇の発火杖"
+    },
+    {
+        "en": "Wand of Woh",
+        "jp": "ウォーのワンド"
+    },
+    {
+        "en": "Fragment of Destiny",
+        "jp": "宿命の破片"
+    },
+    {
+        "en": "Gesture of Orpheus",
+        "jp": "オルフェウスの偉業"
+    },
+    {
+        "en": "Ruinstoke",
+        "jp": "ルインストーク"
+    },
+    {
+        "en": "Slorak's Madness",
+        "jp": "スロラックの狂気"
+    },
+    {
+        "en": "Aether Walker",
+        "jp": "エーテル・ウォーカー"
+    },
+    {
+        "en": "Atrophy",
+        "jp": "萎縮の杖"
+    },
+    {
+        "en": "Pride's Fall",
+        "jp": "傲慢の凋落"
+    },
+    {
+        "en": "Broken Crown",
+        "jp": "壊れた王冠"
+    },
+    {
+        "en": "Blind Faith",
+        "jp": "盲信の兜"
+    },
+    {
+        "en": "Deathseer's Cowl",
+        "jp": "死見者のカウル"
+    },
+    {
+        "en": "Visage of Gunes",
+        "jp": "ギュネスの面"
+    },
+    {
+        "en": "Warhelm of Kassar",
+        "jp": "カッサールの戦兜"
+    },
+    {
+        "en": "Mask of Scarlet Death",
+        "jp": "緋色の死のマスク"
+    },
+    {
+        "en": "Skull of Resonance",
+        "jp": "共鳴の頭骨"
+    },
+    {
+        "en": "Andariel's Visage",
+        "jp": "アンダリエルの面"
+    },
+    {
+        "en": "Fate's Vow",
+        "jp": "運命の誓約"
+    },
+    {
+        "en": "Mempo of Twilight",
+        "jp": "逢魔が刻の面頬"
+    },
+    {
+        "en": "The Helm of Command",
+        "jp": "指揮の兜"
+    },
+    {
+        "en": "The Helm of Rule",
+        "jp": "支配の兜"
+    },
+    {
+        "en": "Leoric's Crown",
+        "jp": "レオリックの王冠"
+    },
+    {
+        "en": "Homing Pads",
+        "jp": "ホーミング・パッド"
+    },
+    {
+        "en": "Pauldrons of the Skeleton King",
+        "jp": "骸骨王の肩当て"
+    },
+    {
+        "en": "Razeth's Volition",
+        "jp": "ラゼスの意"
+    },
+    {
+        "en": "Death Watch Mantle",
+        "jp": "死せる見張りのマント"
+    },
+    {
+        "en": "Corpsewhisper Pauldrons",
+        "jp": "死体ささやくポールドロン"
+    },
+    {
+        "en": "Fury of the Ancients",
+        "jp": "古の民の怒り"
+    },
+    {
+        "en": "Lefebvre's Soliloquy",
+        "jp": "ルフェーブルの独言"
+    },
+    {
+        "en": "Mantle of Channeling",
+        "jp": "チャネリングのマント"
+    },
+    {
+        "en": "Profane Pauldrons",
+        "jp": "不敬のポールドロン"
+    },
+    {
+        "en": "Spaulders of Zakara",
+        "jp": "ザカラの肩当て"
+    },
+    {
+        "en": "Seven Sins",
+        "jp": "七つの大罪"
+    },
+    {
+        "en": "Vile Ward",
+        "jp": "戯れの護り"
+    },
+    {
+        "en": "Corruption",
+        "jp": "堕落の肩当て"
+    },
+    {
+        "en": "Aquila Cuirass",
+        "jp": "鷲座の胸当て"
+    },
+    {
+        "en": "Heart of Iron",
+        "jp": "鉄の心"
+    },
+    {
+        "en": "Chaingmail",
+        "jp": "チェイングメール"
+    },
+    {
+        "en": "Cindercoat",
+        "jp": "シンダーコート"
+    },
+    {
+        "en": "Shi Mizu's Haori",
+        "jp": "シ・ミズの羽織"
+    },
+    {
+        "en": "Goldskin",
+        "jp": "ゴールドスキン"
+    },
+    {
+        "en": "Robes of the Rydraelm",
+        "jp": "リドラムのローブ"
+    },
+    {
+        "en": "Tyrael's Might",
+        "jp": "ティラエルの偉力"
+    },
+    {
+        "en": "Bloodsong Mail",
+        "jp": "ブラッドソング・メイル"
+    },
+    {
+        "en": "Armor of the Kind Regent",
+        "jp": "摂政の鎧"
+    },
+    {
+        "en": "Mantle of the Rydraelm",
+        "jp": "リドラムのマント"
+    },
+    {
+        "en": "Requiem Cereplate",
+        "jp": "レクイエムのセレプレート"
+    },
+    {
+        "en": "Ashnagarr's Blood Bracer",
+        "jp": "アッシュナガールの血染めの腕甲"
+    },
+    {
+        "en": "Steady Strikers",
+        "jp": "ステディ・ストライカー"
+    },
+    {
+        "en": "Cesar's Memento",
+        "jp": "セザーの思い出"
+    },
+    {
+        "en": "Gungdo Gear",
+        "jp": "角弓使いのブレイサー"
+    },
+    {
+        "en": "Bracers of Destruction",
+        "jp": "破壊の腕甲"
+    },
+    {
+        "en": "Bracers of the First Men",
+        "jp": "最初の人々の腕甲"
+    },
+    {
+        "en": "Gabriel's Vambraces",
+        "jp": "ゲイブリエルの腕甲"
+    },
+    {
+        "en": "Pinto's Pride",
+        "jp": "ピントの誇り"
+    },
+    {
+        "en": "Sanguinary Vambraces",
+        "jp": "流血の腕甲"
+    },
+    {
+        "en": "Wraps of Clarity",
+        "jp": "悟りの腕輪"
+    },
+    {
+        "en": "Bindings of the Lesser Gods",
+        "jp": "下級神の腕甲"
+    },
+    {
+        "en": "Akkhan's Manacles",
+        "jp": "アクハンの手枷"
+    },
+    {
+        "en": "Jeram's Bracers",
+        "jp": "ジェラムの腕甲"
+    },
+    {
+        "en": "Bracer of Fury",
+        "jp": "怒りの腕甲"
+    },
+    {
+        "en": "Vambraces of Sescheron",
+        "jp": "セシェロンの腕甲"
+    },
+    {
+        "en": "Ancient Parthan Defenders",
+        "jp": "古のパーサの守護者"
+    },
+    {
+        "en": "Custerian Wristguards",
+        "jp": "カステリアンの腕甲"
+    },
+    {
+        "en": "Nemesis Bracers",
+        "jp": "宿敵の腕甲"
+    },
+    {
+        "en": "Warzechian Armguards",
+        "jp": "ワーゼチアン・アームガード"
+    },
+    {
+        "en": "Slave Bonds",
+        "jp": "奴隷の絆"
+    },
+    {
+        "en": "Promise of Glory",
+        "jp": "栄光の約束"
+    },
+    {
+        "en": "Lacuni Prowlers",
+        "jp": "ラクニ・プローラー"
+    },
+    {
+        "en": "Strongarm Bracers",
+        "jp": "ストロングアーム・ブレイサー"
+    },
+    {
+        "en": "Wondrous Deflectors",
+        "jp": "ワンダラス・ブレイサー"
+    },
+    {
+        "en": "Coils of the First Spider",
+        "jp": "原始蜘蛛の輪"
+    },
+    {
+        "en": "Drakon's Lesson",
+        "jp": "ドラコンの教え"
+    },
+    {
+        "en": "Kethryes' Splint",
+        "jp": "ケスライエスの鉄片"
+    },
+    {
+        "en": "Lakumbra's Ornament",
+        "jp": "ラクンバの装身具"
+    },
+    {
+        "en": "Ranslor's Folly",
+        "jp": "ランスラーの愚行"
+    },
+    {
+        "en": "Reaper's Wraps",
+        "jp": "リーパーの腕甲"
+    },
+    {
+        "en": "Skular's Salvation",
+        "jp": "スクラーの救済"
+    },
+    {
+        "en": "Spirit Guards",
+        "jp": "魂の守り"
+    },
+    {
+        "en": "Trag'Oul Coils",
+        "jp": "トラグ＝オウルの腕巻き"
+    },
+    {
+        "en": "Gloves of Worship",
+        "jp": "信仰のグローブ"
+    },
+    {
+        "en": "Grasps of Essence",
+        "jp": "エッセンスの掌握"
+    },
+    {
+        "en": "Stone Gauntlets",
+        "jp": "ストーン・ガントレット"
+    },
+    {
+        "en": "Magefist",
+        "jp": "メイジフィスト"
+    },
+    {
+        "en": "St. Archew's Gage",
+        "jp": "聖者アーチュウの篭手"
+    },
+    {
+        "en": "Pendergrasps",
+        "jp": "ペンダーグラスプ"
+    },
+    {
+        "en": "Moribund Gauntlets",
+        "jp": "瀕死のガントレット"
+    },
+    {
+        "en": "Gladiator Gauntlets",
+        "jp": "グラディエーター・ガントレット"
+    },
+    {
+        "en": "Frostburn",
+        "jp": "フロストバーン"
+    },
+    {
+        "en": "Tasker and Theo",
+        "jp": "タスカーとセオ"
+    },
+    {
+        "en": "Penders Purchase",
+        "jp": "ペンターの手袋"
+    },
+    {
+        "en": "Saffron Wrap",
+        "jp": "サフランの腰布"
+    },
+    {
+        "en": "Goldwrap",
+        "jp": "ゴールドベルト"
+    },
+    {
+        "en": "Vigilante Belt",
+        "jp": "自警団のベルト"
+    },
+    {
+        "en": "Insatiable Belt",
+        "jp": "貪欲のベルト"
+    },
+    {
+        "en": "Hellcat Waistguard",
+        "jp": "ヘルキャット・ウェストガード"
+    },
+    {
+        "en": "Binding of the Lost",
+        "jp": "失踪者のベルト"
+    },
+    {
+        "en": "The Shame of Delsere",
+        "jp": "デルセアの恥"
+    },
+    {
+        "en": "Kyoshiro's Soul",
+        "jp": "キョーシローの魂"
+    },
+    {
+        "en": "Dayntee's Binding",
+        "jp": "デインティーの縛り"
+    },
+    {
+        "en": "Sacred Harness",
+        "jp": "聖なるハーネス"
+    },
+    {
+        "en": "Quick Draw Belt",
+        "jp": "早撃ちのベルト"
+    },
+    {
+        "en": "Bakuli Jungle Wraps",
+        "jp": "バクリの密林のベルト"
+    },
+    {
+        "en": "String of Ears",
+        "jp": "削いだ耳の腰帯"
+    },
+    {
+        "en": "Fazula's Improbable Chain",
+        "jp": "ファズラの風変わりな鎖"
+    },
+    {
+        "en": "Hergbrash's Bindings",
+        "jp": "ハーグブラッシュの束縛"
+    },
+    {
+        "en": "Belt of Transcendence",
+        "jp": "超常のベルト"
+    },
+    {
+        "en": "Blessed of Haull",
+        "jp": "ハウルの福者"
+    },
+    {
+        "en": "Chain of Shadows",
+        "jp": "影の鎖"
+    },
+    {
+        "en": "Cord of the Sherma",
+        "jp": "シャーマの網"
+    },
+    {
+        "en": "Crashing Rain",
+        "jp": "破壊の雨"
+    },
+    {
+        "en": "Harrington Waistguard",
+        "jp": "ハリントンの腰帯"
+    },
+    {
+        "en": "Haunting Girdle",
+        "jp": "祟られしガードル"
+    },
+    {
+        "en": "Hwoj Wrap",
+        "jp": "ホジの装具"
+    },
+    {
+        "en": "Omnislash",
+        "jp": "オムニスラッシュ"
+    },
+    {
+        "en": "Omryn's Chain",
+        "jp": "オムリンの鎖"
+    },
+    {
+        "en": "Razor Strop",
+        "jp": "剃刃の革帯"
+    },
+    {
+        "en": "Sash of Knives",
+        "jp": "ナイフの腰帯"
+    },
+    {
+        "en": "Sebor's Nightmare",
+        "jp": "セボルの悪夢"
+    },
+    {
+        "en": "Angel Hair Braid",
+        "jp": "天使の髪より編みし腰帯"
+    },
+    {
+        "en": "Thundergod's Vigor",
+        "jp": "雷神の血気"
+    },
+    {
+        "en": "Belt of the Trove",
+        "jp": "秘宝のベルト"
+    },
+    {
+        "en": "The Witching Hour",
+        "jp": "魔の刻のベルト"
+    },
+    {
+        "en": "Jang's Envelopment",
+        "jp": "ジャンの包囲"
+    },
+    {
+        "en": "Fleeting Strap",
+        "jp": "束の間の皮帯"
+    },
+    {
+        "en": "Hunter's Wrath",
+        "jp": "狩人の怒り"
+    },
+    {
+        "en": "Khassett's Cord of Righteousness",
+        "jp": "カセットの正義のベルト"
+    },
+    {
+        "en": "Zoey's Secret",
+        "jp": "ゾーイの秘密"
+    },
+    {
+        "en": "Pox Faulds",
+        "jp": "痘のフォールド"
+    },
+    {
+        "en": "Death's Bargain",
+        "jp": "死の駆け引き"
+    },
+    {
+        "en": "Golemskin Breeches",
+        "jp": "ゴーレムの皮ズボン"
+    },
+    {
+        "en": "Hammer Jammers",
+        "jp": "ハマー・ジャマー"
+    },
+    {
+        "en": "Hexing Pants of Mr. Yan",
+        "jp": "ミスター・ヤンのまじないズボン"
+    },
+    {
+        "en": "Defiler Cuisses",
+        "jp": "冒涜者の脛当て"
+    },
+    {
+        "en": "Swamp Land Waders",
+        "jp": "沼地のレギンス"
+    },
+    {
+        "en": "Depth Diggers",
+        "jp": "深淵を掘る者"
+    },
+    {
+        "en": "Gehennas",
+        "jp": "ゲヘナ"
+    },
+    {
+        "en": "Skelon's Deceit",
+        "jp": "スケロンの欺瞞"
+    },
+    {
+        "en": "Lut Socks",
+        "jp": "ラット・ソックス"
+    },
+    {
+        "en": "Riviera Dancers",
+        "jp": "リヴェラ・ダンサーズ"
+    },
+    {
+        "en": "The Crudest Boots",
+        "jp": "粗末すぎるブーツ"
+    },
+    {
+        "en": "Boots of Disregard",
+        "jp": "無関心のブーツ"
+    },
+    {
+        "en": "Ilusory Boots",
+        "jp": "幻影のブーツ"
+    },
+    {
+        "en": "Boj Anglers",
+        "jp": "ボジ・アングラー"
+    },
+    {
+        "en": "Irontoe Mudsputters",
+        "jp": "鉄蹄の泥はね靴"
+    },
+    {
+        "en": "Bryner's Journey",
+        "jp": "ブライナーの旅"
+    },
+    {
+        "en": "Fire Walkers",
+        "jp": "炎跡を歩む者"
+    },
+    {
+        "en": "Lost Boys",
+        "jp": "失われし子ら"
+    },
+    {
+        "en": "Steuart's Greaves",
+        "jp": "スチュアートのグリーヴ"
+    },
+    {
+        "en": "Ice Climbers",
+        "jp": "アイス・クライマー"
+    },
+    {
+        "en": "Nilfur's Boast",
+        "jp": "ニルフルの誇り"
+    },
+    {
+        "en": "Board Walkers",
+        "jp": "ボード・ウォーカー"
+    },
+    {
+        "en": "See No Evil",
+        "jp": "この眼に悪を見ず"
+    },
+    {
+        "en": "Gyana Na Kashu",
+        "jp": "英知の瞳"
+    },
+    {
+        "en": "Erlang Shen",
+        "jp": "二郎神"
+    },
+    {
+        "en": "The Mind's Eye",
+        "jp": "心の目"
+    },
+    {
+        "en": "Eye of Peshkov",
+        "jp": "ペシュコフの瞳"
+    },
+    {
+        "en": "Kekegi's Unbreakable Spirit",
+        "jp": "ケケギの不屈の精神"
+    },
+    {
+        "en": "The Laws of Seph",
+        "jp": "ゼフの理"
+    },
+    {
+        "en": "Bezoar Stone",
+        "jp": "反芻する石"
+    },
+    {
+        "en": "The Eye of the Storm",
+        "jp": "嵐の目"
+    },
+    {
+        "en": "Madstone",
+        "jp": "凶石"
+    },
+    {
+        "en": "Tzo Krin's Gaze",
+        "jp": "ツォ・クリンの眼差し"
+    },
+    {
+        "en": "Split Tusk",
+        "jp": "裂けた牙"
+    },
+    {
+        "en": "Quetzalcoatl",
+        "jp": "ケツァルコアトル"
+    },
+    {
+        "en": "Carnevil",
+        "jp": "カーネヴィル"
+    },
+    {
+        "en": "Mask of Jeram",
+        "jp": "ジェラムの仮面"
+    },
+    {
+        "en": "The Grin Reaper",
+        "jp": "グリン・リーパー"
+    },
+    {
+        "en": "Tiklandian Visage",
+        "jp": "ティクランの面"
+    },
+    {
+        "en": "Visage of Giyua",
+        "jp": "ギュアの面"
+    },
+    {
+        "en": "Crown of the Primus",
+        "jp": "プライマスの仮面"
+    },
+    {
+        "en": "The Swami",
+        "jp": "スワミー"
+    },
+    {
+        "en": "Dark Mage's Shade",
+        "jp": "黒魔術師の被り物"
+    },
+    {
+        "en": "Archmage's Vicalyke",
+        "jp": "大魔術師のヴィカリク"
+    },
+    {
+        "en": "The Magistrate",
+        "jp": "執政官の頭具"
+    },
+    {
+        "en": "Velvet Camaral",
+        "jp": "ヴェルヴェットのカマラル"
+    },
+    {
+        "en": "Storm Crow",
+        "jp": "ストーム・クロウ"
+    },
+    {
+        "en": "Cloak of Deception",
+        "jp": "欺瞞の外套"
+    },
+    {
+        "en": "Beckon Sail",
+        "jp": "手招きの外套"
+    },
+    {
+        "en": "Blackfeather",
+        "jp": "ブラックフェザー"
+    },
+    {
+        "en": "Cape of the Dark Night",
+        "jp": "闇夜のケープ"
+    },
+    {
+        "en": "The Cloak of the Garwulf",
+        "jp": "ガーワルフのクローク"
+    },
+    {
+        "en": "Girdle of Giants",
+        "jp": "巨人の腰帯"
+    },
+    {
+        "en": "The Undisputed Champion",
+        "jp": "英雄の証"
+    },
+    {
+        "en": "Kotuur's Brace",
+        "jp": "コトゥールの装具"
+    },
+    {
+        "en": "Pride of Cassius",
+        "jp": "カシウスの矜持"
+    },
+    {
+        "en": "Chilanik's Chain",
+        "jp": "チラニクの鎖"
+    },
+    {
+        "en": "Dread Iron",
+        "jp": "ドレッド・アイアン"
+    },
+    {
+        "en": "Lamentation",
+        "jp": "ラメンテーション"
+    },
+    {
+        "en": "Coven's Criterion",
+        "jp": "邪教の規範"
+    },
+    {
+        "en": "Denial",
+        "jp": "断固たる拒否"
+    },
+    {
+        "en": "Wall of Bone",
+        "jp": "骨の壁"
+    },
+    {
+        "en": "Defender of Westmarch",
+        "jp": "ウェストマーチの守護者"
+    },
+    {
+        "en": "Eberli Charo",
+        "jp": "エベリ・チャロ"
+    },
+    {
+        "en": "Freeze of Deflection",
+        "jp": "偏差の凍結"
+    },
+    {
+        "en": "Vo'Toyias Spiker",
+        "jp": "ヴォ＝トイアス・スパイカー"
+    },
+    {
+        "en": "Lidless Wall",
+        "jp": "無蓋の防壁"
+    },
+    {
+        "en": "Ivory Tower",
+        "jp": "象牙の塔"
+    },
+    {
+        "en": "Stormshield",
+        "jp": "ストームシールド"
+    },
+    {
+        "en": "Wall of Man",
+        "jp": "人なる壁"
+    },
+    {
+        "en": "Guard of Johanna",
+        "jp": "ジョハンナの守護"
+    },
+    {
+        "en": "Salvation",
+        "jp": "救済"
+    },
+    {
+        "en": "Shield of Fury",
+        "jp": "怒りの盾"
+    },
+    {
+        "en": "Akarat's Awakening",
+        "jp": "アカラットの覚醒"
+    },
+    {
+        "en": "Hallowed Bulwark",
+        "jp": "神聖なる防壁"
+    },
+    {
+        "en": "Hellskull",
+        "jp": "ヘルスカル"
+    },
+    {
+        "en": "Jekangbord",
+        "jp": "ジェカンボード"
+    },
+    {
+        "en": "Sublime Conviction",
+        "jp": "崇高なる信念"
+    },
+    {
+        "en": "The Final Witness",
+        "jp": "最後の目撃者"
+    },
+    {
+        "en": "Frydehr's Wrath",
+        "jp": "フリデールの憤怒"
+    },
+    {
+        "en": "Piro Marella",
+        "jp": "ピロ・マレラ"
+    },
+    {
+        "en": "Unrelenting Phalanx",
+        "jp": "無慈悲なファランクス"
+    },
+    {
+        "en": "Gazing Demise",
+        "jp": "死者の視線"
+    },
+    {
+        "en": "Homunculus",
+        "jp": "ホムンクルス"
+    },
+    {
+        "en": "Bitterness",
+        "jp": "辛苦"
+    },
+    {
+        "en": "Shukrani's Triumph",
+        "jp": "シュクラニの勝利"
+    },
+    {
+        "en": "Thing of the Deep",
+        "jp": "深きもの"
+    },
+    {
+        "en": "Uhkapian Serpent",
+        "jp": "アーケピアン蛇"
+    },
+    {
+        "en": "Henri's Perquisition",
+        "jp": "ヘンリの追跡"
+    },
+    {
+        "en": "Spite",
+        "jp": "怨恨"
+    },
+    {
+        "en": "Vile Hive",
+        "jp": "不浄の巣"
+    },
+    {
+        "en": "Wilken's Reach",
+        "jp": "ウィルケンの手"
+    },
+    {
+        "en": "Winter Flurry",
+        "jp": "冬の疾風"
+    },
+    {
+        "en": "Etched Sigil",
+        "jp": "エッチングを施された印"
+    },
+    {
+        "en": "Light of Grace",
+        "jp": "優雅な光"
+    },
+    {
+        "en": "Mirrorball",
+        "jp": "鏡球"
+    },
+    {
+        "en": "Myken's Ball of Hate",
+        "jp": "マイケンの憎しみのオーブ"
+    },
+    {
+        "en": "Singularity",
+        "jp": "特異点"
+    },
+    {
+        "en": "The Oculus",
+        "jp": "ジ・オキュラス"
+    },
+    {
+        "en": "Triumvirate",
+        "jp": "トライアンヴィラット"
+    },
+    {
+        "en": "Primordial Soul",
+        "jp": "原初の魂"
+    },
+    {
+        "en": "Cosmic Strand",
+        "jp": "虚空の紐帯"
+    },
+    {
+        "en": "Orb of Infinite Depth",
+        "jp": "無限なる深淵のオーブ"
+    },
+    {
+        "en": "Fletcher's Pride",
+        "jp": "矢職人の誇り"
+    },
+    {
+        "en": "Sin Seekers",
+        "jp": "罪を求むる者"
+    },
+    {
+        "en": "Holy Point Shot",
+        "jp": "聖なる矢筒"
+    },
+    {
+        "en": "Spines of Seething Hatred",
+        "jp": "逆巻く憎悪の棘"
+    },
+    {
+        "en": "Bombardier's Rucksack",
+        "jp": "砲手の矢筒"
+    },
+    {
+        "en": "Emimei's Duffel",
+        "jp": "エミメイのダッフル"
+    },
+    {
+        "en": "The Ninth Cirri Satchel",
+        "jp": "スィライの矢筒、九番"
+    },
+    {
+        "en": "Augustine's Panacea",
+        "jp": "オウグスティンの秘策"
+    },
+    {
+        "en": "Meticulous Bolts",
+        "jp": "精微なボルト"
+    },
+    {
+        "en": "Black Bone Arrows",
+        "jp": "黒き骨の矢"
+    },
+    {
+        "en": "Dead Man's Legacy",
+        "jp": "亡き者の遺産"
+    },
+    {
+        "en": "Archfiend Arrows",
+        "jp": "魔王の矢"
+    },
+    {
+        "en": "Lost Time",
+        "jp": "失われた時"
+    },
+    {
+        "en": "Iron Rose",
+        "jp": "鉄のバラ"
+    },
+    {
+        "en": "Leger's Disdain",
+        "jp": "リージャーの蔑視"
+    },
+    {
+        "en": "Bone Ringer",
+        "jp": "ボーン・リンガー"
+    },
+    {
+        "en": "Moonlight Ward",
+        "jp": "月光の守り"
+    },
+    {
+        "en": "Squirt's Necklace",
+        "jp": "スクワートのネックレス"
+    },
+    {
+        "en": "Golden Gorget of Leoric",
+        "jp": "レオリックの金の首当て"
+    },
+    {
+        "en": "Overwhelming Desire",
+        "jp": "あふれ出る欲望"
+    },
+    {
+        "en": "Wisdom of Kalan",
+        "jp": "カランの英知"
+    },
+    {
+        "en": "Eye of Etlich",
+        "jp": "エトリックの瞳"
+    },
+    {
+        "en": "Rondal's Locket",
+        "jp": "ロンダルのロケット"
+    },
+    {
+        "en": "Talisman of Aranoch",
+        "jp": "アノラックのタリスマン"
+    },
+    {
+        "en": "Ancestors' Grace",
+        "jp": "不明"
+    },
+    {
+        "en": "Countess Julia's Cameo",
+        "jp": "伯爵夫人ジュリアのカメオ細工"
+    },
+    {
+        "en": "Dovu Energy Trap",
+        "jp": "ドヴのエナジー・トラップ"
+    },
+    {
+        "en": "Haunt of Vaxo",
+        "jp": "ヴァクソの憑依"
+    },
+    {
+        "en": "Rakoff's Glass of Life",
+        "jp": "ラコフの命の杯"
+    },
+    {
+        "en": "The Ess of Johan",
+        "jp": "ヨハンのエス"
+    },
+    {
+        "en": "Holy Beacon",
+        "jp": "聖なる印"
+    },
+    {
+        "en": "Kymbo's Gold",
+        "jp": "キムボの金貨"
+    },
+    {
+        "en": "The Flavor of Time",
+        "jp": "時の芳香"
+    },
+    {
+        "en": "Mara's Kaleidoscope",
+        "jp": "マーラの万華鏡"
+    },
+    {
+        "en": "Ouroboros",
+        "jp": "ウロボロス"
+    },
+    {
+        "en": "The Star of Azkaranth",
+        "jp": "アズカランスの星"
+    },
+    {
+        "en": "Xephirian Amulet",
+        "jp": "ゼフィリアのアミュレット"
+    },
+    {
+        "en": "Halcyon's Ascent",
+        "jp": "ハルシオンの昇天"
+    },
+    {
+        "en": "The Johnstone",
+        "jp": "ジョンストーン"
+    },
+    {
+        "en": "Haunted Visions",
+        "jp": "憑かれた幻視"
+    },
+    {
+        "en": "Hellfire Amulet",
+        "jp": "ヘルファイア・アミュレット（STR）"
+    },
+    {
+        "en": "Band of Might",
+        "jp": "力の指輪"
+    },
+    {
+        "en": "Stolen Ring",
+        "jp": "盗まれた指輪"
+    },
+    {
+        "en": "Circle of Nailuj's Evol",
+        "jp": "ネイラジュのエヴォルの輪"
+    },
+    {
+        "en": "Avarice Band",
+        "jp": "強欲の指輪"
+    },
+    {
+        "en": "Leoric's Signet",
+        "jp": "レオリックの印章指輪"
+    },
+    {
+        "en": "Pandemonium Loop",
+        "jp": "伏魔殿の指輪"
+    },
+    {
+        "en": "Ring of Royal Grandeur",
+        "jp": "王家の威光の指輪"
+    },
+    {
+        "en": "Manald Heal",
+        "jp": "マナルド・ヒール"
+    },
+    {
+        "en": "Broken Promises",
+        "jp": "反故にされし約束"
+    },
+    {
+        "en": "Puzzle Ring",
+        "jp": "判じ物の指輪"
+    },
+    {
+        "en": "Arcstone",
+        "jp": "アークストーン"
+    },
+    {
+        "en": "Band of the Rue Chambers",
+        "jp": "悔悟室の指輪"
+    },
+    {
+        "en": "Halo of Karini",
+        "jp": "カリニの後光"
+    },
+    {
+        "en": "Rechel's Ring of Larceny",
+        "jp": "レチェルの盗賊指輪"
+    },
+    {
+        "en": "Rogar's Huge Stone",
+        "jp": "ロガーの巨石"
+    },
+    {
+        "en": "The Short Man's Finger",
+        "jp": "小男の指"
+    },
+    {
+        "en": "The Tall Man's Finger",
+        "jp": "大男の指"
+    },
+    {
+        "en": "Wyrdward",
+        "jp": "ウィルドウォード"
+    },
+    {
+        "en": "Nagelring",
+        "jp": "ナーゲル・リング"
+    },
+    {
+        "en": "Lornelle's Sunstone",
+        "jp": "ローネルのサンストーン"
+    },
+    {
+        "en": "Bul-Kathos's Wedding Band",
+        "jp": "バル＝カソスの結婚指輪"
+    },
+    {
+        "en": "Eternal Union",
+        "jp": "永遠の団結"
+    },
+    {
+        "en": "Justice Lantern",
+        "jp": "正義の灯"
+    },
+    {
+        "en": "Obsidian Ring of the Zodiac",
+        "jp": "オブシディアン・リング・オブ・ザ・ゾディアック"
+    },
+    {
+        "en": "Krysbin's Sentence",
+        "jp": "クリスビンの宣告"
+    },
+    {
+        "en": "Convention of Elements",
+        "jp": "属性の集合体"
+    },
+    {
+        "en": "Elusive Ring",
+        "jp": "逃げ水の指輪"
+    },
+    {
+        "en": "Halo of Arlyse",
+        "jp": "アライスの光輪"
+    },
+    {
+        "en": "Ring of Emptiness",
+        "jp": "無の指輪"
+    },
+    {
+        "en": "Band of Hollow Whispers",
+        "jp": "虚ろなる囁きの指輪"
+    },
+    {
+        "en": "Krede's Flame",
+        "jp": "クレーデの炎"
+    },
+    {
+        "en": "Oculus Ring",
+        "jp": "眼球の指輪"
+    },
+    {
+        "en": "Skull Grasp",
+        "jp": "スカル・グラスプ"
+    },
+    {
+        "en": "Stone of Jordan",
+        "jp": "ヨルダンの石"
+    },
+    {
+        "en": "Unity",
+        "jp": "結束の指輪"
+    },
+    {
+        "en": "Briggs' Wrath",
+        "jp": "ブリッグスの怒り"
+    },
+    {
+        "en": "Hellfire Ring",
+        "jp": "ヘルファイア・リングLv60 STR"
+    },
+    {
+        "en": "Hand of the Prophet",
+        "jp": "予言者の手"
+    },
+    {
+        "en": "Smoking Thurible",
+        "jp": "煙を上げる香炉"
+    },
+    {
+        "en": "Vadim's Surge",
+        "jp": "ヴァディムの活性"
+    },
+    {
+        "en": "Ribald Etchings",
+        "jp": "みだらな銅版画の装具"
+    },
+    {
+        "en": "Skeleton Key",
+        "jp": "骸骨の鍵"
+    },
+    {
+        "en": "Slipka's Letter Opener",
+        "jp": "スリプカのペーパーナイフ"
+    },
+    {
+        "en": "Enchanting Favor",
+        "jp": "魅惑の味"
+    },
+    {
+        "en": "Hillenbrand's Training Sword",
+        "jp": "ヒレンブランドの訓練用の剣"
+    },
+    {
+        "en": "Relic of Akarat",
+        "jp": "アカラットの遺物"
+    }
+]

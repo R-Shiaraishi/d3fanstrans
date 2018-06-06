@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "d3fanstrans",
+  "version": "1.0.0",
+  "description": "diablofans.comで、アイテム名などの固有名を日本語版の名称に置換するChrome拡張です。",
+  "permissions": [
+    "declarativeContent",
+    "https://www.google.com/"
+  ],
+  "web_accessible_resources": [
+    "legendaries.json"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.diablofans.com/*"
+      ],
+      "js": [
+        "scripts.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
